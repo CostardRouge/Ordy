@@ -4,19 +4,15 @@ Ordy
 
 ![Work in progress](Assets/DEMO_WIP.png "Demo ordy (Work in progress)")
 
-----
-
-## How to use
+### How to use
 
 * (Work in progress)
 
-## Release History
+### Release history
 
- * **v0.1** - (Work in progress)
+ * **v0.1** - (Work in progress - tomorrow - soon - later...)
 
-----
-
-## Author
+### Author
 > Steeve Pommier
 
 * [Blog](http://www.mncorp.net)
