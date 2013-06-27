@@ -1,8 +1,11 @@
 Ordy
 ====
 > An awesome organizator
+
 ![Work in progress](Assets/DEMO_WIP.png "Demo ordy (Work in progress)")
+
 ----
+
 ## How to use
 
 * (Work in progress)
