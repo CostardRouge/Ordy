@@ -32,6 +32,12 @@ namespace Ordy
 
             // Enable draggin windows
             this.MouseLeftButtonDown += delegate { this.DragMove(); };
+
+            // tests
+            string a = "aa";
+            this.Tasks.Items.Add(a);
+            this.Tasks.Items.Add(a);
+            this.Tasks.Items.Add(a);
         }
         #endregion
 

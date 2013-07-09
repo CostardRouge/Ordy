@@ -20,9 +20,8 @@ namespace Ordy
             // Init attributes
             this.NotesWindows = new List<NoteWindow>();
 
-            // Do some default sutff
+            // Create and default NoteWindo
             this.NotesWindows.Add(new NoteWindow());
-            //this.NotesWindows.ForEach(w => w.Show());
 
             // Call init methods
             this.InitEvents();
