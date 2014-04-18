@@ -15,6 +15,5 @@ Ordy
 ### Author
 > Steeve Pommier
 
-* [Blog](http://www.mncorp.net)
-* [Github](https://github.com/CostardRouge)
+* [Website](http://costardrouge.eu)
 * [Twitter](https://twitter.com/LeBlousonRouge)
