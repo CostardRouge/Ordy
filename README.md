@@ -16,4 +16,4 @@ Ordy
 > Steeve Pommier
 
 * [Website](http://costardrouge.eu)
-* [Twitter](https://twitter.com/LeBlousonRouge)
+* [Twitter](https://twitter.com/BlousonRouge)
